@@ -1,0 +1,39 @@
+body{
+    header{
+      nav{
+        div{
+                
+        #contentId{
+            height: 15vh;
+            
+           
+            background-color: transparent;
+            
+            ul{ 
+                margin: 0 auto;
+                background-color: white;
+                height: 100%;
+                width: 80%;
+                background-color: transparent;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                li{
+                    width: 80%;
+                    height: 100%;
+                    padding: 10px;
+                    
+                    list-style: none;
+                    a{
+                        text-decoration: none;
+                        color: black;
+                    }
+                }
+            }   
+        }
+        }
+      } 
+        
+    }
+}

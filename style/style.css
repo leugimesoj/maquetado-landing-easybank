@@ -7,4 +7,30 @@ body .middle .principal h1 {
 }
 body .middle .iconos {
   padding: 10px;
+}
+
+body header nav div #contentId {
+  height: 15vh;
+  background-color: transparent;
+}
+body header nav div #contentId ul {
+  margin: 0 auto;
+  background-color: white;
+  height: 100%;
+  width: 80%;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body header nav div #contentId ul li {
+  width: 80%;
+  height: 100%;
+  padding: 10px;
+  list-style: none;
+}
+body header nav div #contentId ul li a {
+  text-decoration: none;
+  color: black;
 }/*# sourceMappingURL=style.css.map */
