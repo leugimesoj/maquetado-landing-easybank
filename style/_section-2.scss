@@ -1,28 +1,30 @@
 body{
     
     .middle{
+        padding: 60px;
         p{
             color: rgb(154, 153, 153);
-            padding: 20px 150px 20px 150px;  
-            
+            // padding: 20px 50px 30px 50px;
         }
-        
-        .principal {
-              
-            h1{
-                // padding: 10px;
-                // width: 100%;
-                padding: 20px 50px 30px 50px;
-                
-                // background-color: aqua;
-            }
-           
+    }
+    .articles{
+        h1{
+            font-size: 20px;
+            // text-align: justify;
+            padding: 15px;
         }
-        
-           
-        
-        .iconos{
-            padding: 10px;
+        h2{
+            font-size: 20px;
+            padding-bottom:15px;
         }
+    }
+    .principal {
+    
+        p{
+            color: rgb(74, 38, 38);
+        }
+    }
+    .iconos{
+        padding: 10px;
     }
     }
