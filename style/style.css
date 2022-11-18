@@ -55,6 +55,10 @@ body header nav div #contentId ul li a {
   padding-left: 7vh;
 }
 
+.section__row {
+  padding-top: 5%;
+}
+
 .image__currency {
   width: 100%;
   height: 100%;
